@@ -1,0 +1,17 @@
+body{
+  background : linear-gradient(red, green);
+  color: white;
+}
+image{
+  border-width: 10px;
+
+}
+.link {
+  background-color: yellowgreen;
+}
+ol {
+  font-weight: bold;
+}
+ol>li {
+  background-color: none
+}
